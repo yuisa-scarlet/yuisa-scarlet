@@ -1,4 +1,4 @@
-<h2 align="center"> YOOO WASSSAPPPPPPPP! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center"> Nice to Meet You! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <!-- Social Media Section -->
 <p align="center">
@@ -9,11 +9,6 @@
   <a href="https://www.linkedin.com/in/ervalsa" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn">
   </a>
 </p>
-
-<!-- Name Section -->
-
-<!-- Banner Section -->
-![](https://github.com/ervalsa/ervalsa/blob/main/banner.png)
 
 <!-- Name Section -->
 ## Ervalsa Dwi Nanda
